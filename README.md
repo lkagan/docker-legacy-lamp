@@ -1,5 +1,7 @@
 # Docker Usage
 
+Provides a custom LAMP stack for running legacy projects.
+
 ## Prerequisites
 
 * Ensure Docker and Docker Compose are installed
