@@ -1,4 +1,4 @@
-# Docker Usage
+# Docker Legacy LAMP Stack
 
 Provides a custom LAMP stack for running legacy projects.
 
